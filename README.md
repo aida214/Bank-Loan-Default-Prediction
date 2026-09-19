@@ -1,4 +1,4 @@
-# 📊 Bank Loan Default Prediction
+# 📊 Bank Loan Default Prediction.
 
 ### Machine Learning Classification Project
 
