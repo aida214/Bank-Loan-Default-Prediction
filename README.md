@@ -323,6 +323,3 @@ The project provided practical experience in building and evaluating machine lea
 
 ---
 
-### 📚 Week 4 — Machine Learning Project
-
-**Bank Loan Default Prediction using Machine Learning**
